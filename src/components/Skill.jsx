@@ -9,9 +9,9 @@ import SkillCard from "./SkillCard";
 
 const skillItem = [
   {
-    imgSrc: '/images/figma.svg',
-    label: 'Figma',
-    desc: 'Design tool'
+    imgSrc: 'https://cdn.simpleicons.org/nestjs/E0234E',
+    label: 'NestJS',
+    desc: 'Node Framework'
   },
   {
     imgSrc: '/images/css3.svg',
