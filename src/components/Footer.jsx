@@ -33,6 +33,14 @@ const sitemap = [
 
 const socials = [
   {
+    label: 'Instagram',
+    href: 'https://www.instagram.com/daniyal_dev1/'
+  },
+  {
+    label: 'LinkedIn',
+    href: 'https://www.linkedin.com/in/daniyal-ali-7baa933bb'
+  },
+  {
     label: 'Twitter X',
     href: 'https://x.com/codewithsadee_'
   },
